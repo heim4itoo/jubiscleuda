@@ -1,18 +1,20 @@
-body{
-    background-color:rosybrown
-    }
+
 
 body{
-    background-color:#ffacf0
+    background-color:#ffacf0;
+}
+    
     h1{
         color:rgb(0, 255, 213) ;
         font-family:arial ;
         background:bisque ;
+        text-align: center;
+        
         }
 
         p{
             color:rgb(0, 0, 0) ;
-            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
-            font: size 20px; ;
+            font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-size: 20px;
             background: ;
             }
