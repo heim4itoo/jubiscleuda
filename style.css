@@ -5,9 +5,9 @@ body{
 }
     
     h1{
-        color:rgba(0, 255, 213, 0.404) ;
+        color:rgb(0, 255, 213) ;
         font-family:arial ;
-        background:bisque ;
+        background:#adffd2
         text-align: center;
         
         }
